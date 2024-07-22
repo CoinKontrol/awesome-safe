@@ -4,6 +4,10 @@ This repository contains a curated list of resources related to SAFE smart
 account wallet. The list is designed to help developers and integrators build 
 on top of Safe, integrate Safe into their applications or develop Safe modules.
 
+🚧 This is a work in progress and many of the modules have not been curated. 
+Contributions are welcomed - if you created or maitaining any of the modules in this
+list and would like to correct or add more details please make a PR to this repo 🚧
+
 ## Safe Modules
 
 Modules that are available open source
