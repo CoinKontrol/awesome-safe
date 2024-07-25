@@ -16,6 +16,8 @@ Modules that are available open source
 
 [ERC-7579](https://docs.safe.global/advanced/erc-7579/overview) is a standard for smart accounts modules. 
 
+This category is a stub
+
 ### Zodiac Compatible
 
 Zodiac is an [open standard](https://eips.ethereum.org/EIPS/eip-5005) for building modular accounts focusing on DAO tooling.
@@ -249,24 +251,25 @@ Blog posts and tutorials related to Safe smart wallets.
 
 Projects using Safe, in alphabetical order
 
-* [Worldcoin](https://github.com/worldcoin)
-* [Drakula](https://drakula.app/)
-* [Multis](https://multis.com/)
-* [Palmera](https://www.palmeradao.xyz/)
-* [CirclesUBI](https://joincircles.net/)
-* [Den](https://www.onchainden.com/)
-* [HQ.xyz](https://www.hq.xyz/)
-* [Crypto - the game](https://www.cryptothegame.com/)
-* [Olas](https://olas.network/)
-* [FluidKey](https://www.fluidkey.com/)
-* [NestWallet](https://www.nestwallet.xyz/)
-* [Rhinestone](rhinestone.wtf)
-* [Zeal](https://www.zeal.app/)
+* [Basedapp](https://basedapp.io/)
 * [Brahma](https://www.brahma.fi/)
 * [Candide](https://www.candide.dev/)
-* [Karpatkey](https://www.karpatkey.com/)
-* [Onit](https://www.onit.fun/)
+* [CirclesUBI](https://joincircles.net/)
+* [CoinKontrol](https://coinkontrol.com/)
 * [Coinshift](https://coinshift.xyz/)
-* [Klaster](https://klaster.io/)
-* [Basedapp](https://basedapp.io/)
+* [Crypto - the game](https://www.cryptothegame.com/)
 * [DeFi Saver](https://defisaver.com/)
+* [Den](https://www.onchainden.com/)
+* [Drakula](https://drakula.app/)
+* [FluidKey](https://www.fluidkey.com/)
+* [HQ.xyz](https://www.hq.xyz/)
+* [Karpatkey](https://www.karpatkey.com/)
+* [Klaster](https://klaster.io/)
+* [Multis](https://multis.com/)
+* [NestWallet](https://www.nestwallet.xyz/)
+* [Olas](https://olas.network/)
+* [Onit](https://www.onit.fun/)
+* [Palmera](https://www.palmeradao.xyz/)
+* [Rhinestone](rhinestone.wtf)
+* [Worldcoin](https://github.com/worldcoin)
+* [Zeal](https://www.zeal.app/)
